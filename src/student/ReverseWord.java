@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author altyn
+ * @author Altyn
  */
 public class ReverseWord {
    public static void main(String[] args){
