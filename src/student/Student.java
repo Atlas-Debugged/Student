@@ -2,7 +2,8 @@
 package student;
 
 /**
- *
+ * *comments
+ Today is january 24 2023
  * @author altyn
  */
 public class Student {
