@@ -3,7 +3,8 @@ package student;
 
 /**
  * *comments
- Today is january 24 2023
+ * Added some more comments
+ Today is January 24 2023
  * @author altyn
  */
 public class Student {
