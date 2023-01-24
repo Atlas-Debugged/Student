@@ -3,9 +3,9 @@ package student;
 
 /**
  * *comments
- * Added some more comments
+ * Added comments to demonstrate pull
  Today is January 24 2023
- * @author altyn
+ * @author Altyn
  */
 public class Student {
     
